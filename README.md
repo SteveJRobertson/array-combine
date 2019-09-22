@@ -11,15 +11,15 @@ const arrayData = [
   [
     ['Heading 1', 12],
     ['Heading 2', 23],
-		['Heading 3', 653],
-		['Heading 4', 584]
-	],
-	[
-		['Heading 1', 45],
-		['Heading 3', 88],
-		['Heading 4', 78],
-		['Heading 5', 567]
-	]
+    ['Heading 3', 653],
+    ['Heading 4', 584]
+  ],
+  [
+    ['Heading 1', 45],
+    ['Heading 3', 88],
+    ['Heading 4', 78],
+    ['Heading 5', 567]
+  ]
 ]
 
 const combinedData(arrayCombine)
