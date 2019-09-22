@@ -28,7 +28,7 @@ const combinedData(arrayCombine)
 The combined output will be:
 
 ```js
-;[
+[
   ['Heading 1', 12, 45],
   ['Heading 2', 23, 0],
   ['Heading 3', 653, 88],
@@ -49,7 +49,7 @@ const combinedData(arrayCombine, blankValue)
 The output will look like this:
 
 ```js
-;[
+[
   ['Heading 1', 12, 45],
   ['Heading 2', 23, 'X'],
   ['Heading 3', 653, 88],
