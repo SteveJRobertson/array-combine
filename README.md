@@ -8,9 +8,9 @@ These tools assume the structure of the data to be combined is as follows:
 
 ```js
 const arrayData = [
-	[
-		['Heading 1', 12],
-		['Heading 2', 23],
+  [
+    ['Heading 1', 12],
+    ['Heading 2', 23],
 		['Heading 3', 653],
 		['Heading 4', 584]
 	],
