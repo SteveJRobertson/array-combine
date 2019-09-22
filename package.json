@@ -1,0 +1,22 @@
+{
+  "name": "array-combine",
+  "version": "0.1.0",
+  "description": "Take two arrays of similar data and combine them into one, adding zeros where necessary",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveJRobertson/array-combine.git"
+  },
+  "author": "Steve Robertson <steve@sr.digital>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SteveJRobertson/array-combine/issues"
+  },
+  "homepage": "https://github.com/SteveJRobertson/array-combine#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
